@@ -1,6 +1,6 @@
 ### Titanic Survival Prediction
 ![titanic](https://github.com/Bantwini/CODESOFT/assets/125835231/cb602b83-d4b6-4a7d-8471-2b5cfe0b8ea3)
-Welcome to the Titanic Survival Detection project! This project focuses on analyzing the Titanic dataset to predict passenger survival. It involves data preprocessing, exploratory data analysis, and building a machine learning model to predict survival probabilities.
+### Welcome to the Titanic Survival Detection project! This project focuses on analyzing the Titanic dataset to predict passenger survival. It involves data preprocessing, exploratory data analysis, and building a machine learning model to predict survival probabilities.
 
 
 
